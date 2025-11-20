@@ -8,7 +8,7 @@ This project was developed collaboratively by **Sharief Sk** and a teammate.
 
 ## 🚀 Live Deployment
 
-**URL:** [https://symptomcheckerai.zite.so](https://symptomcheckerai.zite.so)
+**URL:** (https://symptomcheckerai.zite.so)
 
 ---
 
@@ -123,11 +123,6 @@ If symptoms are severe or persistent, users should seek medical help immediately
 * Integration with wearable health data
 * API exposure for third-party applications
 
----
-
-## 🧾 License
-
-MIT License
 
 ---
 
@@ -137,4 +132,3 @@ Thanks to open-source libraries, AI frameworks, and modern deployment platforms 
 
 ---
 
-Made with ❤️ by Sharief and Team.
