@@ -2,7 +2,7 @@
 
 SymptomCheckerAI is an AI-powered health insight tool that helps users understand their symptoms instantly and responsibly. It analyzes natural language input, identifies possible conditions, provides severity levels, suggests precautions, and guides users toward informed next steps — all without giving medical diagnoses.
 
-This project was developed collaboratively by **Nithin GUBBALA** and a teammate.
+This project was developed collaboratively by **Nithin Gubbala** and a teammate.
 
 ---
 
@@ -131,5 +131,6 @@ If symptoms are severe or persistent, users should seek medical help immediately
 Thanks to open-source libraries, AI frameworks, and modern deployment platforms that made this project possible.
 
 ---
+
 
 
